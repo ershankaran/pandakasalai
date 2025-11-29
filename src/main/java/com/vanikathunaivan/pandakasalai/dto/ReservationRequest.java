@@ -40,6 +40,10 @@ public class ReservationRequest {
         return warehouseId;
     }
 
+    public void setWarehouseId(Integer warehouseId) {
+        this.warehouseId = warehouseId;
+    }
+
     public String getBinCode() {
         return binCode;
     }

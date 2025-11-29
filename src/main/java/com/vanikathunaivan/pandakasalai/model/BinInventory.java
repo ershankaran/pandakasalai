@@ -1,8 +1,6 @@
 package com.vanikathunaivan.pandakasalai.model;
 
 import jakarta.persistence.*;
-import lombok.Builder;
-import lombok.Data;
 
 @Entity
 @Table(name = "bin_inventory")
