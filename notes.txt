@@ -1,0 +1,4 @@
+bruno commamd to concurrent testing.
+
+
+bru run "Reserve_Stock_Clash_Test.bru" --iteration-count 10 --parallel
